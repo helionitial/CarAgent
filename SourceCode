@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html class="nojs"><head>
+    <title>dallas / fort worth cars &amp; trucks classifieds  - craigslist</title>
+
+    <meta name="description" content="dallas / fort worth cars &amp; trucks classifieds  - craigslist">
+    <link rel="alternate" type="application/rss+xml" href="/cta/index.rss" title="RSS feed for craigslist | cars &amp; trucks  in dallas / fort worth ">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=e2e4b630ad289d1744ce3e99a2a623c3">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-1.9.2.custom.css?v=3f1b9638a5222b05bec93117fa889ee5">
+    <link rel="prefetch" href="//www.craigslist.org/js/postings.min.js?v=3706ea02cbd3cb6d57969b35f954e61e">
+    
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet-stock.css?v=84d3c834332cbea762f0ab54db54c578">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=b94c0e0f6bef79d2d992e3420553207b">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=3962f82c61ab2a0cc93caec696f2d870">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=f1223c97cb8efdbf6ce2db4513315769">
+<![endif]-->
+    
+        <script type="text/javascript"><!--
+            var currencySymbol = "&#x0024;";
+var areaRegion = "TX";
+var zoomToPosting = null;
+var showInfoText = "show info";
+var subarea = null;
+var imageHost = "http://images.craigslist.org";
+var areaId = "21";
+var lessInfoText = "less info";
+var showMapTabs = 1;
+var areaCountry = "US";
+var starHint = "save this post in your favorites list";
+var expFaves = null;
+var pID = null;
+var catAbb = "cta";
+var catType = "sss";
+
+        --></script>
+    
+    <!--[if lt IE 9]>
+<script  src="//www.craigslist.org/js/html5shiv.min.js?v=42e8031bc7ca9d67a48f4a5feff7bf29" type="text/javascript" ></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<script  src="//www.craigslist.org/js/json2.min.js?v=178d4ad319e0e0b4a451b15e49b71bec" type="text/javascript" ></script>
+<![endif]-->
+</head>
+
+<body class="toc">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('nojs', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0];
+        var fmt = C('cl_fmt');
+        if (fmt) {
+            pagemode = fmt;
+            bodyClassList.push(fmt);
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+            bodyClassList.push(pagemode);
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof catType !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(catType + ':([^,]+)', 'i')) || {})[1];
+            for (var i = 0, len = bodyClassList.length; i < len; i++){
+                if (bodyClassList[i] === 'map') { mode = undefined; }
+            }
+            if (mode) { bodyClassList.push(mode); }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <article id="pagecontainer">
+
+        <header class="bchead">
+	<div class="contents closed">
+		<div class="breadbox">
+			<div class="mi post"><em>[ </em><a href="https://post.craigslist.org/c/dal?lang=en">post</a><em> ]</em></div>
+			<div class="mi account"><em>[ </em><a href="https://accounts.craigslist.org">account</a><em> ]</em></div>
+			<div class="mi fav"><div id="favorites">
+    <a href="#" class="favlink"><span class="n">0</span> favorites</a>
+</div></div>
+			<span class="crumb"><a href="//www.craigslist.org/about/sites">CL</a> &gt;</span><span class="crumb"><a href="/">dallas</a> &gt;</span><span class="crumb"><a href="/sss/">for sale / wanted</a> &gt;</span><span class="crumb"><a href="/cta/">cars & trucks</a></span>
+		</div>
+		<div class="dropdown">&mdash; &mdash; &mdash;</div>
+        <div id="satabs" class="tabcontainer"><b>all dallas</b><a href="/dal/cta/">dallas</a><a href="/ftw/cta/">fort worth</a><a href="/mdf/cta/">mid cities</a><a href="/ndf/cta/">north DFW</a><a href="/sdf/cta/">south DFW</a></div>
+
+	</div>
+</header>
+
+        <blockquote class="searchform">
+            
+        <script type="text/javascript"><!--
+            var catAbb = "cta";
+
+        --></script>
+    
+<form action="/search/cta" id="searchform" method="get" accept-charset="utf-8">
+	<input type="checkbox" name="useMap" id="useMap" style="display:none;" value="1">
+	<input id="zoomtoposting" type="hidden" name="zoomToPosting" value="">
+
+    <fieldset id="searchfieldset">
+    <legend id="searchlegend"><select id="catAbb" name="catAbb">
+
+                <option value="ccc">all community</option>
+
+                <option value="eee">all event</option>
+
+                <option value="sss">all for sale / wanted</option>
+<option disabled value="">--</option>
+<option value="ata"> antiques</option>
+<option data-acat="ata" value="atd"> antiques - by dealer</option>
+<option data-acat="ata" value="atq"> antiques - by owner</option>
+<option value="ppa"> appliances</option>
+<option data-acat="ppa" value="ppd"> appliances - by dealer</option>
+<option data-acat="ppa" value="app"> appliances - by owner</option>
+<option value="ara"> arts+crafts</option>
+<option data-acat="ara" value="ard"> arts &amp; crafts - by dealer</option>
+<option data-acat="ara" value="art"> arts &amp; crafts - by owner</option>
+<option value="sna"> atvs/utvs/snowmobiles</option>
+<option data-acat="sna" value="snd"> atvs, utvs, snowmobiles - by dea</option>
+<option data-acat="sna" value="sno"> atvs, utvs, snowmobiles - by own</option>
+<option value="pta"> auto parts</option>
+<option data-acat="pta" value="ptd"> auto parts - by dealer</option>
+<option data-acat="pta" value="pts"> auto parts - by owner</option>
+<option value="baa"> baby+kids</option>
+<option data-acat="baa" value="bad"> baby &amp; kid stuff - by dealer</option>
+<option data-acat="baa" value="bab"> baby &amp; kid stuff - by owner</option>
+<option value="bar"> barter</option>
+<option value="haa"> beauty+hlth</option>
+<option data-acat="bia" value="bid"> bicycles - by dealer</option>
+<option data-acat="bia" value="bik"> bicycles - by owner</option>
+<option value="bia"> bikes</option>
+<option value="boo"> boats</option>
+<option data-acat="boo" value="bod"> boats - by dealer</option>
+<option data-acat="boo" value="boa"> boats - by owner</option>
+<option value="bka"> books</option>
+<option data-acat="bka" value="bkd"> books &amp; magazines - by dealer</option>
+<option data-acat="bka" value="bks"> books &amp; magazines - by owner</option>
+<option value="bfa"> business</option>
+<option data-acat="bfa" value="bfd"> business/commercial - by dealer</option>
+<option data-acat="bfa" value="bfs"> business/commercial - by owner</option>
+<option value="cta" selected> cars+trucks</option>
+<option data-acat="cta" value="ctd"> cars &amp; trucks - by dealer</option>
+<option data-acat="cta" value="cto"> cars &amp; trucks - by owner</option>
+<option data-acat="ema" value="emq"> cds / dvds / vhs - by dealer</option>
+<option data-acat="ema" value="emd"> cds / dvds / vhs - by owner</option>
+<option value="ema"> cds/dvd/vhs</option>
+<option value="moa"> cell phones</option>
+<option data-acat="moa" value="mod"> cell phones - by dealer</option>
+<option data-acat="moa" value="mob"> cell phones - by owner</option>
+<option value="cla"> clothes+acc</option>
+<option data-acat="cla" value="cld"> clothing &amp; accessories - by deal</option>
+<option data-acat="cla" value="clo"> clothing &amp; accessories - by owne</option>
+<option value="cba"> collectibles</option>
+<option data-acat="cba" value="cbd"> collectibles - by dealer</option>
+<option data-acat="cba" value="clt"> collectibles - by owner</option>
+<option value="sya"> computers</option>
+<option data-acat="sya" value="syd"> computers - by dealer</option>
+<option data-acat="sya" value="sys"> computers - by owner</option>
+<option value="ela"> electronics</option>
+<option data-acat="ela" value="eld"> electronics - by dealer</option>
+<option data-acat="ela" value="ele"> electronics - by owner</option>
+<option value="gra"> farm+garden</option>
+<option data-acat="gra" value="grq"> farm &amp; garden - by dealer</option>
+<option data-acat="gra" value="grd"> farm &amp; garden - by owner</option>
+<option data-acat="sss" value="ssq"> for sale by dealer</option>
+<option data-acat="sss" value="sso"> for sale by owner</option>
+<option value="zip"> free stuff</option>
+<option value="fua"> furniture</option>
+<option data-acat="fua" value="fud"> furniture - by dealer</option>
+<option data-acat="fua" value="fuo"> furniture - by owner</option>
+<option value="gms"> garage sales</option>
+<option value="foa"> general</option>
+<option data-acat="foa" value="fod"> general for sale - by dealer</option>
+<option data-acat="foa" value="for"> general for sale - by owner</option>
+<option data-acat="haa" value="had"> health and beauty - by dealer</option>
+<option data-acat="haa" value="hab"> health and beauty - by owner</option>
+<option value="hva"> heavy equipment</option>
+<option data-acat="hva" value="hvd"> heavy equipment - by dealer</option>
+<option data-acat="hva" value="hvo"> heavy equipment - by owner</option>
+<option value="hsa"> household</option>
+<option data-acat="hsa" value="hsd"> household items - by dealer</option>
+<option data-acat="hsa" value="hsh"> household items - by owner</option>
+<option value="jwa"> jewelry</option>
+<option data-acat="jwa" value="jwd"> jewelry - by dealer</option>
+<option data-acat="jwa" value="jwl"> jewelry - by owner</option>
+<option value="maa"> materials</option>
+<option data-acat="maa" value="mad"> materials - by dealer</option>
+<option data-acat="maa" value="mat"> materials - by owner</option>
+<option value="mpa"> motorcycle parts &amp; acc</option>
+<option data-acat="mpa" value="mpd"> motorcycle parts/acc - by dealer</option>
+<option data-acat="mpa" value="mpo"> motorcycle parts/acc - by owner</option>
+<option value="mca"> motorcycles</option>
+<option data-acat="mca" value="mcd"> motorcycles/scooters - by dealer</option>
+<option data-acat="mca" value="mcy"> motorcycles/scooters - by owner</option>
+<option data-acat="msa" value="msd"> musical instruments - by dealer</option>
+<option data-acat="msa" value="msg"> musical instruments - by owner</option>
+<option value="msa"> music instr</option>
+<option value="pha"> photo+video</option>
+<option data-acat="pha" value="phd"> photo/video - by dealer</option>
+<option data-acat="pha" value="pho"> photo/video - by owner</option>
+<option value="rva"> recreational vehicles</option>
+<option data-acat="rva" value="rvd"> rvs - by dealer</option>
+<option data-acat="rva" value="rvs"> rvs - by owner</option>
+<option value="sga"> sporting</option>
+<option data-acat="sga" value="sgd"> sporting goods - by dealer</option>
+<option data-acat="sga" value="spo"> sporting goods - by owner</option>
+<option value="tia"> tickets</option>
+<option data-acat="tia" value="tid"> tickets - by dealer</option>
+<option data-acat="tia" value="tix"> tickets - by owner</option>
+<option value="tla"> tools</option>
+<option data-acat="tla" value="tld"> tools - by dealer</option>
+<option data-acat="tla" value="tls"> tools - by owner</option>
+<option value="taa"> toys+games</option>
+<option data-acat="taa" value="tad"> toys &amp; games - by dealer</option>
+<option data-acat="taa" value="tag"> toys &amp; games - by owner</option>
+<option value="vga"> video gaming</option>
+<option data-acat="vga" value="vgd"> video gaming - by dealer</option>
+<option data-acat="vga" value="vgm"> video gaming - by owner</option>
+<option value="waa"> wanted</option>
+<option data-acat="waa" value="wad"> wanted - by dealer</option>
+<option data-acat="waa" value="wan"> wanted - by owner</option>
+<option disabled value="">--</option>
+
+                <option value="ggg">all gigs</option>
+
+                <option value="hhh">all housing</option>
+
+                <option value="jjj">all jobs</option>
+
+                <option value="ppp">all personals</option>
+
+                <option value="res">all resume</option>
+
+                <option value="bbb">all services offered</option>
+</select><span class="posterpicker"><a href="../cto" data-cat="cto">owner</a><b> | </b><a href="../ctd" data-cat="ctd">dealer</a><b> | </b><b>all</b></span></legend>
+	<div class="experimentalFeature">
+    	     
+    	</div>
+	<div id="searchtable">
+		<span class="searchgroup">
+			<span>
+				<input id="query" name="query" data-suggest="search" size="24" maxlength="180" value="" placeholder="search" autocorrect="off" autocapitalize="off">
+			</span>
+			<input id="searchbtn" type="submit" value="search">
+		</span>
+
+		<span class="searchgroup">
+	price:
+	<input name="minAsk" class="min" size="5" placeholder="min" value="">
+	<input name="maxAsk" class="max" size="5" placeholder="max" value="">
+</span>
+
+		<span class="searchgroup">
+	year:
+	<input name="autoMinYear" class="min" size="4" value="" placeholder="min">
+	<input name="autoMaxYear" class="max" size="4" value="" placeholder="max">
+	<input data-suggest="makemodel" placeholder="make/model" name="autoMakeModel" autocapitalize="off" autocorrect="off" size="15" value="">
+</span>
+
+		
+		<span class="searchgroup">
+			<label>
+				<input type="checkbox" name="hasPic" value="1" ><span class="haspic">pic</span>
+			</label>
+			<label>
+					<input type="checkbox" name="srchType" value="T"
+					title="search only posting titles">title
+			</label>
+		</span>
+
+		<span class="searchgroup"></span>
+
+	</div>
+    </fieldset>
+	<input id="excats" type="hidden" name="excats" value="">
+</form>
+        </blockquote>
+
+        
+
+        <section class="body">
+            <section class="favlistinfo">
+                
+                
+            </section>
+
+            <div id="toc_rows">
+                <div class="toc_legend">
+                    <div class="center">
+                        <span class="tocview buttongroup js-only"><a href="#list" title="show results in a list" class="mode button" data-view="list" id="listview">list</a><a href="#pic" title="show results in a list with thumbnail pictures" class="mode button" data-view="pic" id="picview">thumb</a><a href="#grid" title="show results side-by-side with larger pictures" class="mode button" data-view="grid" id="gridview">gallery</a><a href="#map" title="show results on a map" class="mapview mode button" data-view="map" id="mapview">map</a></span>
+
+<span class="paginator buttongroup">
+<span class="resulttotal">found <span>...</span> postings</span><span class="buttons"><span class="button first" title="first page"> &lt;&lt; </span><span class="button prev" title="previous page"> &lt; prev </span><span class="button pagenum">1 - 100 </span><a href='/cta/index100.html' class="button next" title="next page"> next &gt; </a></span>
+</span><span class="tocsort buttongroup"><span class="button sel">newest</span><a class="button" title="sort by price, lowest to highest" href="/search/cta/?sort=priceasc"><span class='pricesort'><span class='pricesort'>&#x0024;</span>&#x0024;</span>&#x0024;</a><a class="button" title="sort by price, highest to lowest" href="/search/cta/?sort=pricedsc">&#x0024;<span class='pricesort'>&#x0024;<span class='pricesort'>&#x0024;</span></span></a></span>
+                    </div>
+                </div>
+
+                <div class="content">
+                    
+                    <h4 class="ban"><span class="bantext">Mon Apr 07</span></h4>
+ <p class="row" data-pid="4400980607"> <a href="/dal/cto/4400980607.html" class="i" data-id="0:00T0T_eAlgJifYgrp"><span class="price">&#x0024;5000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4400980607.html">2000 Chevy Tahoe</a> </span> <span class="l2"> <span class="price">&#x0024;5000</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4400980607">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4393449979"> <a href="/dal/cto/4393449979.html" class="i" data-id="0:00a0a_5i4Zw9FLBiy"><span class="price">&#x0024;6699</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4393449979.html">06 Mazda 6S</a> </span> <span class="l2"> <span class="price">&#x0024;6699</span>  <span class="pnr"> <small> (arlington)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4393449979">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411869773"> <a href="/dal/cto/4411869773.html" class="i"><span class="price">&#x0024;800</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411869773.html">91 Isuzu Rodeo</a> </span> <span class="l2"> <span class="price">&#x0024;800</span>  <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4407782411"> <a href="/dal/cto/4407782411.html" class="i" data-id="0:00t0t_byuwC3UpJUZ"><span class="price">&#x0024;2500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4407782411.html">1998 honda accord 2dr coupe</a> </span> <span class="l2"> <span class="price">&#x0024;2500</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4394688507"> <a href="/dal/cto/4394688507.html" class="i" data-id="0:00u0u_2rVEngK7hma"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4394688507.html">PAINT &amp; BODY custom stock affordable </a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (west dallas)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4407803406"> <a href="/dal/cto/4407803406.html" class="i" data-id="0:01111_5roST4Dyi4L"><span class="price">&#x0024;6000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4407803406.html">2005 ford F150</a> </span> <span class="l2"> <span class="price">&#x0024;6000</span>  <span class="pnr"> <small> (Mockingbird)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4407792101"> <a href="/dal/cto/4407792101.html" class="i" data-id="0:00e0e_ixZC1LH2M7n"><span class="price">&#x0024;3500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4407792101.html">2000 cadillac deville</a> </span> <span class="l2"> <span class="price">&#x0024;3500</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4404281155"> <a href="/dal/cto/4404281155.html" class="i" data-id="0:00h0h_7OaJiLVyVvn"><span class="price">&#x0024;4990</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4404281155.html">1999 Honda Accord Cpe EXL V6 131k</a> </span> <span class="l2"> <span class="price">&#x0024;4990</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4404281155">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411868511"> <a href="/dal/ctd/4411868511.html" class="i" data-id="0:00202_1l5LAO4Bhhb"><span class="price">&#x0024;23000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/ctd/4411868511.html">2004 Mercedes Benz  with Electrically heated rear window w/auto shut off</a> </span> <span class="l2"> <span class="price">&#x0024;23000</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411868511">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4394960836"> <a href="/dal/cto/4394960836.html" class="i" data-id="0:00I0I_hnvKz3JXC38"><span class="price">&#x0024;9499</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4394960836.html">Acura TL 2005  super clean </a> </span> <span class="l2"> <span class="price">&#x0024;9499</span>  <span class="pnr"> <small> (arlington)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4394960836">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4399840010"> <a href="/dal/cto/4399840010.html" class="i" data-id="0:00707_fKjEiJ3yrco"><span class="price">&#x0024;6995</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4399840010.html">2003 Mercedes Benz E320 CLEAN</a> </span> <span class="l2"> <span class="price">&#x0024;6995</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4399840010">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411665841"> <a href="/dal/cto/4411665841.html" class="i"><span class="price">&#x0024;7500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411665841.html">2001 Lincoln Town-Car Limousine *** Money Maker!! Excelente!!</a> </span> <span class="l2"> <span class="price">&#x0024;7500</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="4411665841">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408567683"> <a href="/dal/cto/4408567683.html" class="i" data-id="0:00k0k_he8YTN6uDG0"><span class="price">&#x0024;4500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4408567683.html">Ford Explorer 2002</a> </span> <span class="l2"> <span class="price">&#x0024;4500</span>  <span class="pnr"> <small> (dallas.)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408567683">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411867637"> <a href="/mdf/cto/4411867637.html" class="i" data-id="0:00h0h_1BfbFu5jt6O"><span class="price">&#x0024;49000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/mdf/cto/4411867637.html">2009 LINCOLN TC(COLLECTORS CAR)</a> </span> <span class="l2"> <span class="price">&#x0024;49000</span>  <span class="pnr"> <small> (Temple)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411867590"> <a href="/mdf/ctd/4411867590.html" class="i" data-id="0:00k0k_3SieMitXRKo"><span class="price">&#x0024;16995</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/mdf/ctd/4411867590.html">2010 Chevy Camaro 1LT w/Xenon Headlights &amp; CLEAN Carfax!</a> </span> <span class="l2"> <span class="price">&#x0024;16995</span>  <span class="pnr"> <small> (ARLINGTON, TX)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4411867549"> <a href="/dal/ctd/4411867549.html" class="i" data-id="0:00H0H_iXntPydwcli"></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/ctd/4411867549.html"> 2009 Kia Rio SX---ESTABLISH OR RE-ESTABLISH ONLY- I will help</a> </span> <span class="l2">   <span class="pnr"> <small> (GARLAND MESQUITE DALLAS)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411867549">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4384152407"> <a href="/dal/cto/4384152407.html" class="i" data-id="0:00M0M_bLETbJwsFYo"><span class="price">&#x0024;6200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4384152407.html">2007 Dodge Dakota </a> </span> <span class="l2"> <span class="price">&#x0024;6200</span>  <span class="pnr"> <small> (n,arlington)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4384152407">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411855755"> <a href="/dal/cto/4411855755.html" class="i" data-id="0:01212_25LspOVeCth"><span class="price">&#x0024;1000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411855755.html">1994 Jimmy</a> </span> <span class="l2"> <span class="price">&#x0024;1000</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4367220556"> <a href="/dal/cto/4367220556.html" class="i" data-id="0:00o0o_4v4rn0d0t7y"><span class="price">&#x0024;6500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4367220556.html">1998 Chevy z71 lifted with 35's </a> </span> <span class="l2"> <span class="price">&#x0024;6500</span>  <span class="pnr"> <small> (mckinney tx)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4367220556">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4385314135"> <a href="/dal/cto/4385314135.html" class="i" data-id="0:00G0G_5QoV6gP2eMj"><span class="price">&#x0024;7500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4385314135.html">2007 Nissan Quest good miles</a> </span> <span class="l2"> <span class="price">&#x0024;7500</span>  <span class="pnr"> <small> (e.arlington)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4385314135">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4401295721"> <a href="/dal/cto/4401295721.html" class="i" data-id="0:00o0o_4v4rn0d0t7y"><span class="price">&#x0024;6500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4401295721.html">Lifted 98 Chevy z71</a> </span> <span class="l2"> <span class="price">&#x0024;6500</span>  <span class="pnr"> <small> (mckinney tx)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4401295721">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411852688"> <a href="/dal/cto/4411852688.html" class="i" data-id="0:00K0K_7R6PAqSTIqN"><span class="price">&#x0024;1950</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411852688.html">1995 Infiniti j30 4 door sedan automatic,cold AC must see</a> </span> <span class="l2"> <span class="price">&#x0024;1950</span>  <span class="pnr"> <small> (PLANO )</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4404029593"> <a href="/dal/cto/4404029593.html" class="i" data-id="0:00T0T_289rulAZTki"><span class="price">&#x0024;6500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4404029593.html">2000 Lincoln Navigator</a> </span> <span class="l2"> <span class="price">&#x0024;6500</span>  <span class="pnr"> <small> (E Dallas/Plesant Grove)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411837443"> <a href="/dal/cto/4411837443.html" class="i" data-id="0:00505_gwTIBSR5Ltd"><span class="price">&#x0024;3500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411837443.html">97 GMC TRUCK V8 GAS 10'6</a> </span> <span class="l2"> <span class="price">&#x0024;3500</span>  <span class="pnr"> <small> (WYLIE)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411837443">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4400707275"> <a href="/dal/cto/4400707275.html" class="i" data-id="0:00a0a_9qmdeqHlDRy"><span class="price">&#x0024;4300</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4400707275.html">2001 Ford Mustang</a> </span> <span class="l2"> <span class="price">&#x0024;4300</span>  <span class="pnr"> <small> (arlington)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4400707275">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408862708"> <a href="/dal/cto/4408862708.html" class="i" data-id="0:00g0g_bb6TrSjGHpT"><span class="price">&#x0024;1100</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4408862708.html">1998 ford contour</a> </span> <span class="l2"> <span class="price">&#x0024;1100</span>  <span class="pnr"> <small> (rowlett)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408862708">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411834955"> <a href="/dal/cto/4411834955.html" class="i" data-id="0:00b0b_8MYgwXRR7da"><span class="price">&#x0024;14000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411834955.html">1981 Datsun 280zx - Reduced</a> </span> <span class="l2"> <span class="price">&#x0024;14000</span>  <span class="pnr"> <small> (Garland)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411834955">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408543820"> <a href="/dal/cto/4408543820.html" class="i" data-id="0:00g0g_bb6TrSjGHpT"><span class="price">&#x0024;1100</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4408543820.html">ford contour 1998</a> </span> <span class="l2"> <span class="price">&#x0024;1100</span>  <span class="pnr"> <small> (rowlett)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408543820">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411864933"> <a href="/dal/ctd/4411864933.html" class="i" data-id="0:00a0a_3Fp6HXmgPYu"><span class="price">&#x0024;10900</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/ctd/4411864933.html">2005 Mercedes Benz E-Class Sdn 3.2L  with Cruise control</a> </span> <span class="l2"> <span class="price">&#x0024;10900</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411864933">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4366177311"> <a href="/dal/cto/4366177311.html" class="i" data-id="0:00u0u_5pVRbjD1paD"><span class="price">&#x0024;2990</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4366177311.html">****1992 MAZDA MIATA  5 Speed   VERY  CLEAN    Black    NICE****  </a> </span> <span class="l2"> <span class="price">&#x0024;2990</span>  <span class="pnr"> <small> (dallas)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411830715"> <a href="/dal/cto/4411830715.html" class="i" data-id="0:00K0K_dnAphYvA7fy"><span class="price">&#x0024;4200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411830715.html">1976 Ford LTD 61k completely original everything</a> </span> <span class="l2"> <span class="price">&#x0024;4200</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411830715">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4398814494"> <a href="/dal/cto/4398814494.html" class="i" data-id="0:00E0E_57DValU8TYs"><span class="price">&#x0024;7000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4398814494.html">96 impala SS </a> </span> <span class="l2"> <span class="price">&#x0024;7000</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408467034"> <a href="/mdf/cto/4408467034.html" class="i" data-id="0:00Z0Z_7zSyB94Sjur"><span class="price">&#x0024;2800</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/mdf/cto/4408467034.html">volkswagen jetta 2000</a> </span> <span class="l2"> <span class="price">&#x0024;2800</span>  <span class="pnr"> <small> (arlington)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4377542264"> <a href="/ndf/cto/4377542264.html" class="i" data-id="0:00U0U_dSqvA4zdE8X"><span class="price">&#x0024;15500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ndf/cto/4377542264.html">Fully loaded chevy NEED GONE TODAY</a> </span> <span class="l2"> <span class="price">&#x0024;15500</span>  <span class="pnr"> <small> (Decatur)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4376236691"> <a href="/dal/cto/4376236691.html" class="i" data-id="0:00C0C_kqm240fsRjY"><span class="price">&#x0024;3290</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4376236691.html">*****1996 Mitsubishi   ECLIPSE  Convertible   EXCELLENT   Nice *****</a> </span> <span class="l2"> <span class="price">&#x0024;3290</span>  <span class="pnr"> <small> (DALLAS)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411858458"> <a href="/dal/cto/4411858458.html" class="i" data-id="0:01616_32eiOmGcGf4"><span class="price">&#x0024;15</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411858458.html">FORD Crown Victoria Wheel Rim</a> </span> <span class="l2"> <span class="price">&#x0024;15</span>  <span class="pnr"> <small> (Plano)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411858458">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411862131"> <a href="/dal/ctd/4411862131.html" class="i" data-id="0:01616_dR9C70YE5jQ"><span class="price">&#x0024;5500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/ctd/4411862131.html">1999 Land Rover Range Rover 4dr Wgn 4.6 HSE 108" WB  with Front/rear side-door s</a> </span> <span class="l2"> <span class="price">&#x0024;5500</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411862131">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4411861858"> <a href="/dal/ctd/4411861858.html" class="i" data-id="0:00C0C_eG6TboCAmNF"><span class="price">&#x0024;1995</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/ctd/4411861858.html">2001 Toyota Corolla</a> </span> <span class="l2"> <span class="price">&#x0024;1995</span>  <span class="pnr"> <small> (Garland)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411861858">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4411854247"> <a href="/dal/cto/4411854247.html" class="i" data-id="0:00w0w_bV1kqjZRNSw"><span class="price">&#x0024;8300</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411854247.html">2010 nissan versa </a> </span> <span class="l2"> <span class="price">&#x0024;8300</span>  <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411861428"> <a href="/ndf/cto/4411861428.html" class="i" data-id="0:00w0w_gh9F6eaRJZl"><span class="price">&#x0024;5200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ndf/cto/4411861428.html">2002 SILVERADO 4DOOR TRUCK - 5.3Ltr. -Tow pckg. - OBO</a> </span> <span class="l2"> <span class="price">&#x0024;5200</span>  <span class="pnr"> <small> (Highland village)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4388259252"> <a href="/dal/cto/4388259252.html" class="i" data-id="0:00q0q_8RupXbiBYgK"><span class="price">&#x0024;6000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4388259252.html">***2004 Toyota Solara - SLE 2dr Coupe !!!</a> </span> <span class="l2"> <span class="price">&#x0024;6000</span>  <span class="pnr"> <small> (Addison)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411859661"> <a href="/ndf/cto/4411859661.html" class="i" data-id="0:00f0f_bV0V2J2QWRH"><span class="price">&#x0024;2000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ndf/cto/4411859661.html">1996 Toyota Avalon</a> </span> <span class="l2"> <span class="price">&#x0024;2000</span>  <span class="pnr"> <small> (Lewisville)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411859661">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411859379"> <a href="/dal/cto/4411859379.html" class="i" data-id="0:01717_hDPsjukSvLI"><span class="price">&#x0024;14800</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411859379.html">2005 DURAMAX CHEVROLET SILVERADO 3500 4X4 DISEL! 6.6 TURBO! CREW CAB</a> </span> <span class="l2"> <span class="price">&#x0024;14800</span>  <span class="pnr"> <small> (IRVING)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411859030"> <a href="/sdf/ctd/4411859030.html" class="i" data-id="0:00m0m_btkBt4q36iL"><span class="price">&#x0024;22450</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/sdf/ctd/4411859030.html">2010 Lexus IS 250 Lightningmotorsports.net 972-237-0053</a> </span> <span class="l2"> <span class="price">&#x0024;22450</span>  <span class="pnr"> <small> (Grand Prairie)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411859030">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4411841845"> <a href="/ftw/cto/4411841845.html" class="i" data-id="0:00h0h_eXLBM2HC5Ht"><span class="price">&#x0024;5300</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ftw/cto/4411841845.html">2001 Honda Accord EX</a> </span> <span class="l2"> <span class="price">&#x0024;5300</span>  <span class="pnr"> <small> (fort worth)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411841845">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4392940824"> <a href="/dal/cto/4392940824.html" class="i" data-id="0:00Q0Q_9hzWKHDMmWC"><span class="price">&#x0024;12950</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4392940824.html">2007 Yukon XL FULLY LOADED great deal.</a> </span> <span class="l2"> <span class="price">&#x0024;12950</span>  <span class="pnr"> <small> (Sherman)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4392940824">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411858705"> <a href="/dal/ctd/4411858705.html" class="i" data-id="0:01212_72DEtROyBfk"><span class="price">&#x0024;6850</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/ctd/4411858705.html">2006 Chevrolet TrailBlazer 4dr 4WD EXT LS  with Door locks, child security, rear</a> </span> <span class="l2"> <span class="price">&#x0024;6850</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411858705">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4382221152"> <a href="/mdf/cto/4382221152.html" class="i" data-id="0:00000_aF7Nzn7SBGP"><span class="price">&#x0024;3950</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/mdf/cto/4382221152.html">07 Dodge Caliber</a> </span> <span class="l2"> <span class="price">&#x0024;3950</span>  <span class="pnr"> <small> (S.Arlington)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4381622477"> <a href="/dal/cto/4381622477.html" class="i" data-id="0:00101_gG8Y3FKixYi"><span class="price">&#x0024;1200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4381622477.html">1957 chevy wagon</a> </span> <span class="l2"> <span class="price">&#x0024;1200</span>  <span class="pnr"> <small> (texarkana, AR)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4381622477">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411858367"> <a href="/dal/ctd/4411858367.html" class="i" data-id="0:00s0s_kdKJyimwtY7"><span class="price">&#x0024;11900</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/ctd/4411858367.html">THE CLASSIC : 1991 BMW M5 BLACK BEAUTY! </a> </span> <span class="l2"> <span class="price">&#x0024;11900</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411858367">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4408751158"> <a href="/dal/cto/4408751158.html" class="i" data-id="0:00l0l_9d1sRFanfbq"><span class="price">&#x0024;8250</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4408751158.html">2009 DODGE CHARGER HEMI V8 POLICE </a> </span> <span class="l2"> <span class="price">&#x0024;8250</span>  <span class="pnr"> <small> (Sherman)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408751158">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4381704058"> <a href="/dal/cto/4381704058.html" class="i" data-id="0:00l0l_4F3vA8zFTIb"><span class="price">&#x0024;1200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4381704058.html">late 40s chevy 3 window</a> </span> <span class="l2"> <span class="price">&#x0024;1200</span>  <span class="pnr"> <small> (texarkana)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4381704058">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4407733966"> <a href="/ndf/cto/4407733966.html" class="i" data-id="0:00v0v_3EHZA6sWw4u"><span class="price">&#x0024;2500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ndf/cto/4407733966.html">2004 Lexus IS300</a> </span> <span class="l2"> <span class="price">&#x0024;2500</span>  <span class="pnr"> <small> (DFW )</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4370141184"> <a href="/mdf/cto/4370141184.html" class="i" data-id="0:00h0h_fsSOxtFcZjc"><span class="price">&#x0024;2150</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/mdf/cto/4370141184.html">01 Ford Focus ZX3</a> </span> <span class="l2"> <span class="price">&#x0024;2150</span>  <span class="pnr"> <small> (S.Arlington)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408666511"> <a href="/mdf/cto/4408666511.html" class="i" data-id="0:00P0P_l0r5HzPv7Rb"><span class="price">&#x0024;12000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/mdf/cto/4408666511.html">03 dodge 4dr diesel dually 3500 cummins 205k 6 sp manuel</a> </span> <span class="l2"> <span class="price">&#x0024;12000</span>  <span class="pnr"> <small> (wylie, texas )</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408666511">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408606338"> <a href="/mdf/cto/4408606338.html" class="i" data-id="0:00I0I_a8AquRLkQeL"><span class="price">&#x0024;2000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/mdf/cto/4408606338.html">2001 bravada suv 4dr awd auto 152k loaded leather nice!!</a> </span> <span class="l2"> <span class="price">&#x0024;2000</span>  <span class="pnr"> <small> (wylie, texas)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408606338">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4395901158"> <a href="/dal/cto/4395901158.html" class="i" data-id="0:00L0L_fN24Y5dnJBy"><span class="price">&#x0024;3500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4395901158.html">CHEVY SILVERADO 2000</a> </span> <span class="l2"> <span class="price">&#x0024;3500</span>  <span class="pnr"> <small> (dallas)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4395901158">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408261378"> <a href="/dal/cto/4408261378.html" class="i" data-id="0:00000_bB9CXxWqOny"><span class="price">&#x0024;15500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4408261378.html"> 2012 Hyundai Elantra Black Limited Tech package 47K miles 1st owner</a> </span> <span class="l2"> <span class="price">&#x0024;15500</span>  <span class="pnr"> <small> (Irving Coit/635)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408261378">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411855133"> <a href="/mdf/cto/4411855133.html" class="i" data-id="0:00H0H_eSu6FAiBeyZ"><span class="price">&#x0024;14400</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/mdf/cto/4411855133.html">for sale yukon 2008</a> </span> <span class="l2"> <span class="price">&#x0024;14400</span>  <span class="pnr"> <small> (fort worth)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411855054"> <a href="/dal/cto/4411855054.html" class="i" data-id="0:00w0w_5REM00gxDR"><span class="price">&#x0024;1800</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411855054.html">95 camaro</a> </span> <span class="l2"> <span class="price">&#x0024;1800</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411855193"> <a href="/dal/ctd/4411855193.html" class="i" data-id="0:00505_cuuS2TV5FoB"><span class="price">&#x0024;13950</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/ctd/4411855193.html">2000 BMW Z3 M 2dr Cpe 3.2L; JAW DROPPING...AWESOME!!  with 3.2L (192) DOHC 24-va</a> </span> <span class="l2"> <span class="price">&#x0024;13950</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411855193">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4411733280"> <a href="/dal/cto/4411733280.html" class="i" data-id="0:00C0C_26guVWhKQGt"><span class="price">&#x0024;1850</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411733280.html">hyundai elantra 2000</a> </span> <span class="l2"> <span class="price">&#x0024;1850</span>  <span class="pnr"> <small> (north dallas)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411733280">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411823201"> <a href="/ftw/cto/4411823201.html" class="i" data-id="0:00E0E_dd9MiUAO8U8"><span class="price">&#x0024;1500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ftw/cto/4411823201.html">1999 Ford Explorer</a> </span> <span class="l2"> <span class="price">&#x0024;1500</span>  <span class="pnr"> <small> (ft. worth)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411823201">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411839576"> <a href="/dal/cto/4411839576.html" class="i" data-id="0:01212_fm1tL9QZmAf"><span class="price">&#x0024;2099</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411839576.html">..excellent'..2003 Honda Accord</a> </span> <span class="l2"> <span class="price">&#x0024;2099</span>  <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411852773"> <a href="/mdf/ctd/4411852773.html" class="i" data-id="0:00r0r_h4KLBJ1ebYW"><span class="price">&#x0024;7995</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/mdf/ctd/4411852773.html">2003 Acura MDX Touring w/HEATED Seats, 3rd Row, &amp; Clean Carfax!</a> </span> <span class="l2"> <span class="price">&#x0024;7995</span>  <span class="pnr"> <small> (ARLINGTON, TX)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4411834886"> <a href="/dal/cto/4411834886.html" class="i" data-id="0:00X0X_6oUqujR0stY"><span class="price">&#x0024;7900</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411834886.html">2004 Ford F-250 XLT 4X4 Diesel </a> </span> <span class="l2"> <span class="price">&#x0024;7900</span>  <span class="pnr"> <small> (Oak Cliff)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411834886">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411708316"> <a href="/dal/cto/4411708316.html" class="i" data-id="0:00o0o_djz2w9MTSis"><span class="price">&#x0024;1000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411708316.html">1998 Ford Expedition Bad head</a> </span> <span class="l2"> <span class="price">&#x0024;1000</span>  <span class="pnr"> <small> (dallas)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411851648"> <a href="/dal/ctd/4411851648.html" class="i" data-id="0:00101_34oGbRFS3nx"><span class="price">&#x0024;16900</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/ctd/4411851648.html">2005 BMW X5 X5 4dr AWD 4.8is; SWEET PACKAGE!  with Front/rear stabilizer bars</a> </span> <span class="l2"> <span class="price">&#x0024;16900</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411851648">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4411851477"> <a href="/dal/cto/4411851477.html" class="i" data-id="0:00l0l_9gicREoX8YB"><span class="price">&#x0024;3700</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411851477.html">07 KIA SPECTRA5 103123 MILES</a> </span> <span class="l2"> <span class="price">&#x0024;3700</span>  <span class="pnr"> <small> (DALLAS TX )</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411851613"> <a href="/dal/ctd/4411851613.html" class="i" data-id="0:00m0m_lbW9QzdbYV"></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/ctd/4411851613.html">$499 DOWN**BAD CREDIT NO PROBLEM**YOUR JOB IS YOUR CREDIT!!!</a> </span> <span class="l2">   <span class="pnr"> <small> (NO CREDIT CHECK #1 SECOND CHANCE FINANCI)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411851613">map</span></span></span> </span>  <a class="gc" href="/ctd/" data-cat="ctd">cars &amp; trucks - by dealer</a> </span> </p>
+ <p class="row" data-pid="4408516897"> <a href="/dal/cto/4408516897.html" class="i" data-id="0:00m0m_dbPRSV0JCkK"><span class="price">&#x0024;1700</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4408516897.html">1999 ford explorer</a> </span> <span class="l2"> <span class="price">&#x0024;1700</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408516897">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4401227841"> <a href="/dal/cto/4401227841.html" class="i" data-id="0:00101_a3sh1xaExUa"><span class="price">&#x0024;4500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4401227841.html">2001 Honda Odyssey</a> </span> <span class="l2"> <span class="price">&#x0024;4500</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4401227841">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411850895"> <a href="/dal/cto/4411850895.html" class="i" data-id="0:00v0v_gDAjJVN951L"><span class="price">&#x0024;2500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411850895.html">1999 Dodge Caravan</a> </span> <span class="l2"> <span class="price">&#x0024;2500</span>  <span class="pnr"> <small> (Coppell )</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411850895">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4400780803"> <a href="/dal/cto/4400780803.html" class="i" data-id="0:00x0x_52k7ptO7bJT"><span class="price">&#x0024;7500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4400780803.html">2004 Volkwagen Touareg</a> </span> <span class="l2"> <span class="price">&#x0024;7500</span>  <span class="pnr"> <small> (dallas tx)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4400780803">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4401071088"> <a href="/dal/cto/4401071088.html" class="i" data-id="0:00M0M_8uK5sAgIspN"><span class="price">&#x0024;6500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4401071088.html">2007 Ford Fusion</a> </span> <span class="l2"> <span class="price">&#x0024;6500</span>  <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408692420"> <a href="/ndf/cto/4408692420.html" class="i" data-id="0:00n0n_8SodqrYtd2y"><span class="price">&#x0024;3495</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ndf/cto/4408692420.html">2001 Honda Civic EX Coupe Very Clean Must SEE</a> </span> <span class="l2"> <span class="price">&#x0024;3495</span>  <span class="pnr"> <small> (Arlington,Texas)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408692420">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4370229550"> <a href="/dal/cto/4370229550.html" class="i" data-id="0:00S0S_dYkN5HRieoJ"><span class="price">&#x0024;4000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4370229550.html">2005 Chevy Cavalier</a> </span> <span class="l2"> <span class="price">&#x0024;4000</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4370229550">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4382213530"> <a href="/dal/cto/4382213530.html" class="i" data-id="0:00s0s_aPS24fLNYeZ"><span class="price">&#x0024;4000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4382213530.html">2005 Chevy Cobalt</a> </span> <span class="l2"> <span class="price">&#x0024;4000</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4382213530">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4374571670"> <a href="/dal/cto/4374571670.html" class="i" data-id="0:00Y0Y_bH5wQefrBtW"><span class="price">&#x0024;4000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4374571670.html">2003 Chrysler PT Cruiser</a> </span> <span class="l2"> <span class="price">&#x0024;4000</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4374571670">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408706844"> <a href="/ndf/cto/4408706844.html" class="i" data-id="0:01010_dWoUDGYDNTe"><span class="price">&#x0024;2995</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ndf/cto/4408706844.html">2005 Mercury Sable GS Clean Car With Warranty Must SEE</a> </span> <span class="l2"> <span class="price">&#x0024;2995</span>  <span class="pnr"> <small> (Arlington,Texas)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408706844">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411850109"> <a href="/dal/cto/4411850109.html" class="i" data-id="0:00N0N_8m3z6UWwkXO"><span class="price">&#x0024;13500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411850109.html">2007 chevy tahoe </a> </span> <span class="l2"> <span class="price">&#x0024;13500</span>  <span class="pnr"> <small> (dallas tx)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411850109">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4407227510"> <a href="/ftw/cto/4407227510.html" class="i" data-id="0:00n0n_ifSQVEEvXEl"><span class="price">&#x0024;6995</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ftw/cto/4407227510.html">2k7 Eclipse GS COLD A/C</a> </span> <span class="l2"> <span class="price">&#x0024;6995</span>  <span class="pnr"> <small> (FORT WORTH )</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4407227510">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4366083016"> <a href="/dal/cto/4366083016.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4366083016.html">MUSTANG  2000</a> </span> <span class="l2">   <span class="pnr"> <small> (214 809 4550)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="4366083016">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411848962"> <a href="/dal/cto/4411848962.html" class="i" data-id="0:00K0K_dwfSJdfLjdZ"><span class="price">&#x0024;1700</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411848962.html">1998 ford contour</a> </span> <span class="l2"> <span class="price">&#x0024;1700</span>  <span class="pnr"> <small> (dallas tx)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411848962">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4366076601"> <a href="/dal/cto/4366076601.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4366076601.html">SILVERADO  2001 </a> </span> <span class="l2">   <span class="pnr"> <small> (214 809 4550)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="4366076601">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408395340"> <a href="/ftw/cto/4408395340.html" class="i" data-id="0:00n0n_ifSQVEEvXEl"><span class="price">&#x0024;6995</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ftw/cto/4408395340.html">2K07 Mits Eclipse GS ready for summer! </a> </span> <span class="l2"> <span class="price">&#x0024;6995</span>  <span class="pnr"> <small> (Fort Worth )</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4408395340">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411728768"> <a href="/ftw/cto/4411728768.html" class="i" data-id="0:00P0P_cywCAshUHI2"><span class="price">&#x0024;4500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ftw/cto/4411728768.html">1984 El Camino with 5.3 LSx swap, runs / drives!</a> </span> <span class="l2"> <span class="price">&#x0024;4500</span>  <span class="pnr"> <small> (Can be Ft. Worth)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411728768">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4396675821"> <a href="/dal/cto/4396675821.html" class="i" data-id="0:00i0i_afcOzySSO83"></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4396675821.html">escaley 2003</a> </span> <span class="l2">   <span class="pnr"> <small> (214 8094550)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4396675821">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4396663978"> <a href="/dal/cto/4396663978.html" class="i" data-id="0:01010_bZsc4pBZ7XT"></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4396663978.html">honda civil 2004</a> </span> <span class="l2">   <span class="pnr"> <small> (2148094550)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4407188891"> <a href="/dal/cto/4407188891.html" class="i" data-id="0:00L0L_51yuqewPNb2"><span class="price">&#x0024;9900</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4407188891.html">2008 Jetta GLI Turbo 2.0T - Premium Wheels, Clean Title,</a> </span> <span class="l2"> <span class="price">&#x0024;9900</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4407188891">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4407196894"> <a href="/dal/cto/4407196894.html" class="i" data-id="0:00w0w_jmby3no72KC"><span class="price">&#x0024;9500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4407196894.html">2003 Audi TT Quattro 225hp, 94k miles, no accidents, need to sell</a> </span> <span class="l2"> <span class="price">&#x0024;9500</span>  <span class="pnr"> <small> (Dallas)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4407196894">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411846130"> <a href="/dal/cto/4411846130.html" class="i" data-id="0:00606_aIEyH1qXdWW"></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411846130.html">1954 Chevy frame up</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4382830246"> <a href="/dal/cto/4382830246.html" class="i" data-id="0:00d0d_956SB5NOOwG"><span class="price">&#x0024;13990</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4382830246.html">2011 Toyota Camry LE, 39K miles, Alloys, 1Owner, Clean Title, Warranty</a> </span> <span class="l2"> <span class="price">&#x0024;13990</span>  <span class="pnr">  <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4391523300"> <a href="/dal/cto/4391523300.html" class="i"><span class="price">&#x0024;6000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4391523300.html">2006 Lincoln Town Car Black on Black L</a> </span> <span class="l2"> <span class="price">&#x0024;6000</span>  <span class="pnr"> <small> (Dallas, TX)</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="4391523300">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411844758"> <a href="/dal/cto/4411844758.html" class="i" data-id="0:00707_bfrUrZdu3KU"><span class="price">&#x0024;1723</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411844758.html">Low~Low~Low~Price 04 Chevy Impala #^$black sedan</a> </span> <span class="l2"> <span class="price">&#x0024;1723</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4411844758">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411784489"> <a href="/dal/cto/4411784489.html" class="i" data-id="0:01111_Qngp7iOmmS"><span class="price">&#x0024;1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4411784489.html">ek hatch for trade</a> </span> <span class="l2"> <span class="price">&#x0024;1</span>  <span class="pnr"> <small> (Houston)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4411844672"> <a href="/ftw/cto/4411844672.html" class="i" data-id="0:00g0g_gLSOISipD5q"><span class="price">&#x0024;7500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/ftw/cto/4411844672.html">1949 Chevy Truck 3100</a> </span> <span class="l2"> <span class="price">&#x0024;7500</span>  <span class="pnr"> <small> (Haltom City, TX)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4390621169"> <a href="/dal/cto/4390621169.html" class="i"><span class="price">&#x0024;5500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4390621169.html">Lincoln Town cars</a> </span> <span class="l2"> <span class="price">&#x0024;5500</span>  <span class="pnr"> <small> (11322 Kline dr. )</small> <span class="px"> <span class="p"> <span class="maptag" data-pid="4390621169">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4403750106"> <a href="/dal/cto/4403750106.html" class="i" data-id="0:00j0j_6QCrtmIL19Q"><span class="price">&#x0024;1300</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4403750106.html">1996 Dodge Caravan Sport 6cylinder</a> </span> <span class="l2"> <span class="price">&#x0024;1300</span>  <span class="pnr"> <small> (Garland)</small> <span class="px"> <span class="p"> pic&nbsp;<span class="maptag" data-pid="4403750106">map</span></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+ <p class="row" data-pid="4408708614"> <a href="/dal/cto/4408708614.html" class="i" data-id="0:00C0C_9DTCYuPtDO4"><span class="price">&#x0024;4500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Apr  7</span>  <a href="/dal/cto/4408708614.html">1977 chevy Malibu</a> </span> <span class="l2"> <span class="price">&#x0024;4500</span>  <span class="pnr"> <small> (Wylie)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p>
+
+                    <div id="mapcontainer" data-arealat="32.783298" data-arealon="-96.800003">
+	<div id="noresult_overlay"></div>
+		<div id="noresult_text">
+			<span class="message">No mappable items found</span>
+		</div>
+	<div id="map" class="loading"></div>
+</div>
+<span class="timing"></span>
+                    
+                </div>
+
+                <div class="toc_legend bottom"><div class="center"><div class='bottompaginator'><span class="paginator buttongroup">
+<span class="resulttotal">found <span>...</span> postings</span><span class="buttons"><span class="button first" title="first page"> &lt;&lt; </span><span class="button prev" title="previous page"> &lt; prev </span><span class="button pagenum">1 - 100 </span><a href='/cta/index100.html' class="button next" title="next page"> next &gt; </a></span>
+</span></div></div></div>
+
+            </div>
+            <div id="floater">
+                <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+            </div>
+
+            <section class="blurbs">
+                <blockquote id="messagetable"><div id="messages"><span class="hl">[ <a href="http://carsharing.net/where.html"><font color="green">carshare</font></a> ]</span>
+<span class="hl"> [ <a href="http://www.craigslist.org/about/recalled_items">recalls</a> ] </span>
+<span class="hl"> [ <a href="http://youtube.com/craigslist">tv</a> ] </span>
+<span class="hl"> [ <a href="http://blog.craigslist.org/">blog</a> ] </span>
+<span class="hl"> [ <a href="/about/scams">scams</a> ] </span>
+<span class="hl"> [ <a href="/about/safety">safety</a> ] </span>
+<span class="hl"> [ <a href="/about/prohibited">prohibited</a> ] </span>
+</div></blockquote>
+            </section>
+        </section>
+        
+        <footer>
+	
+			<span class="rss">
+				<a class="l" href="/cta/index.rss">RSS</a>
+				<a href="http://www.craigslist.org/about/rss">(?)</a><br>
+			</span>
+			
+	<ul class="clfooter">
+		<li>&copy; 2014 <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+		<li><a href="//www.craigslist.org/about/help/">help</a></li>
+		<li><a href="//www.craigslist.org/about/scams">safety</a></li>
+		<li class="desktop"><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+		<li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+		<li class="desktop"><a href="//www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+		<li><a href="//www.craigslist.org/about/terms.of.use">terms</a></li>
+		<li><a href="//www.craigslist.org/about/">about</a></li>
+		<li class="fsel desktop" data-mode="mobile"><a href="#">mobile</a></li>
+		<li class="fsel mobile" data-mode="regular"><a href="#">desktop</a></li>
+	</ul>
+</footer>
+    </article>
+    <script  src="//www.craigslist.org/js/general-concat.min.js?v=d39fb6755b9061ba2033897f66337306" type="text/javascript" ></script>
+    <script type="text/javascript"><!--
+        var iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=df3e26b8dc7dec459e3415594e32b1a3';
+        document.body.insertBefore(iframe, null);
+    --></script>
+    <script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-id="{PostingID}">
+        <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+        <span class="bedrooms">{BedroomsContent}</span>
+        <span class="postingtitle"><a>{PostingTitle}</a></span>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            <button class="back">&lt;</button> back to posting list
+        </div>
+        <div class="title">
+            <span class="star" data-pid="{PostingID}"></span>
+            <span class="postingtitle"><a href="{PostingURL}" target="_blank">{PostingTitle}</a></span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer">
+            <div class="slidernav">
+                <button class="back" disabled="disabled">&lt;</button><span class="sliderinfo"></span><button class="forward">&gt;</button>
+            </div>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <abbr class="date timeago" title="{isoPostedDate}">{humanPostedDate}</abbr>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script  src="//www.craigslist.org/js/leaflet-concat.min.js?v=37c48f98e87075fa17cffef26e0840d6" type="text/javascript" ></script>
+    <script  src="//www.craigslist.org/js/tocs-concat.min.js?v=0b9c480205837e83f4ca342c8b7534d5" type="text/javascript" ></script>
+</body>
+</html>
+
